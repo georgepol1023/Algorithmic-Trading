@@ -191,7 +191,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-**Your Name**
+George Politis
+
 - GitHub: [@georgepol1023](https://github.com/georgepol1023)
 
 ## 🙏 Acknowledgments
