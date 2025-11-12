@@ -188,14 +188,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@georgepol1023](https://github.com/georgepol1023)
 
 ## 🙏 Acknowledgments
 
@@ -204,5 +201,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All contributors and users of this project
 
 ---
-
-**⚠️ Disclaimer**: This software is for educational purposes only. It is not financial advice. Trading stocks involves risk. Never invest money you cannot afford to lose. Always do your own research and consult with financial professionals before making investment decisions.
